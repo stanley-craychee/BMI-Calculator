@@ -5,24 +5,22 @@ Refer to the 'master' branch for the actual project files. The 'README' branch o
 
 ------------Overview
 
-This repository contains the code for an Android mobile app which was created using Kotlin. The mobile app is an efficient way to send out information to potential recruiters to let them know you are looking for a job, have experience, and have a date of availability.
+This repository contains the code for an Android mobile app which was created using Kotlin. The mobile app is an efficient way to quickly calculature your BMI and know whether it is in a healthy range of not, using biometric data as input.
 
 ------------Project Purpose
 
-Users of this app will benefit from saving time and energy through automated self-promo via text messaging recruiters through this app.
+Users of this app will benefit from being able to quickly and effectively calculate their BMI index.
 
 ------------Features
 
 1. Users fill in a variety of form fields with their information
-2. Users preview the message they are about to send to a recruiter
-3. Users will be brought to their default text messaging app with a pre-written message that's ready to send out using the information provided 
+2. Users select 'calculate' and are given their BMI, as well as a message about whether their BMI is within a healthy range for their biology
 
 Form fields presented:
-1. Contact name
-2. Contact number
-3. Display name
-4. Whether they're a 'junior' dev or not
-5. Immediate start (yes or no) -> If no, provide first available date
+1. Gender
+2. Age
+3. Height
+4. Weight
 
 ------------Screenshots
 
